@@ -3,7 +3,7 @@
 # Search and Sample Return Project
 ![alt text][image_0] 
 
-This project is modeled after the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html)  This project covers three essential elements of robotics, which are perception, decision making and actuation.  used a simulator environment built with the Unity game engine.  
+This project is modeled after the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html)  This project covers three essential elements of robotics, which are perception, decision making and actuation.  In this project, I have used a simulator environment built with the Unity game engine.  
 
 ## The Simulator
 The simulator used can be downloaded here;  
