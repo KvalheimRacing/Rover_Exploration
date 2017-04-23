@@ -5,6 +5,8 @@
 
 This project is modeled after the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html)  This project covers three essential elements of robotics, which are perception, decision making and actuation.  In this project, I have used a simulator environment built with the Unity game engine.  
 
+Project requirements [here](https://review.udacity.com/#!/rubrics/916/view)
+
 ## The Simulator
 The simulator used can be downloaded here;  
 * [For Linux](https://s3-us-west-1.amazonaws.com/udacity-robotics/Rover+Unity+Sims/Linux_Roversim.zip) 
