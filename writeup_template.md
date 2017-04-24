@@ -10,7 +10,8 @@
 
 * Download the simulator and take data in "Training Mode"
 * Test out the functions in the Jupyter Notebook provided
--
+
+0) Record data
 1) Add functions to detect obstacles and samples of interest (golden rocks)
 2) Fill in the `process_image()` function with the appropriate image processing steps (perspective transform, color threshold etc.) to get from raw images to a map.  The `output_image` you create in this step should demonstrate that your mapping pipeline works.
 3) Use `moviepy` to process the images in your saved dataset with the `process_image()` function.  Include the video you produce as part of your submission.
