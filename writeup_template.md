@@ -46,6 +46,8 @@ You're reading it!
 
 ### Pipeline (single images)
 
+Good illustration of what [HSV](http://infohost.nmt.edu/tcc/help/pubs/colortheory/web/hsv.html) is. 
+
 #### 1. Provide an example of a 
 ![alt text][image2]
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
