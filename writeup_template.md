@@ -5,6 +5,8 @@
 
 overfitting to this project
 
+wall higging is a good way to map the map
+
 
 **The goals / steps of this project are the following:**  
 
