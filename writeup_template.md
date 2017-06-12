@@ -5,6 +5,8 @@
 
 overfitting to this project
 
+optimize time?
+
 wall higging is a good way to map the map
 
 
