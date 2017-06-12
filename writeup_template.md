@@ -7,7 +7,11 @@ overfitting to this project
 
 optimize time?
 
-wall higging is a good way to map the map
+wall hugging is a good way to map the map
+
+if all the pixels in front are black, go around rock or wall.
+
+if two rocks are near to each other, look at only one rock (standard deviation)
 
 
 **The goals / steps of this project are the following:**  
