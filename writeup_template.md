@@ -13,6 +13,7 @@ if all the pixels in front are black, go around rock or wall.
 
 if two rocks are near to each other, look at only one rock (standard deviation)
 
+RL algorithm with respect to time, movement picking rocks
 
 **The goals / steps of this project are the following:**  
 
